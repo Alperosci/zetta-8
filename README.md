@@ -4,7 +4,7 @@ Zetta-8 is a simple fantasy console/virtual machine written in the Zig programmi
 
 ## Requirements
 
-- [Zig](https://ziglang.org/) (0.11.0 or later)
+- [Zig](https://ziglang.org/) (0.15.0 or later)
 - [Raylib](https://www.raylib.com/)
 
 ## Building and Running
