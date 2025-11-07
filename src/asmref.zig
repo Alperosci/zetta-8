@@ -1,0 +1,10 @@
+pub const TST: u8 = 0x01;
+pub const PUT: u8 = 0x02;
+pub const OUT: u8 = 0x03;
+pub const ALV: u8 = 0x04;
+pub const JMP: u8 = 0x05;
+pub const COL: u8 = 0x06;
+pub const FLH: u8 = 0x07;
+pub const SET: u8 = 0x08;
+pub const BCK: u8 = 0x09;
+pub const HLT: u8 = 0xff;
